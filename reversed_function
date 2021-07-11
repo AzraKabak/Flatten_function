@@ -1,0 +1,15 @@
+import numpy as np
+import pandas as pd
+
+
+y = [10,93,87,26]
+for i in reversed(y):
+   print(i)
+   
+OR
+
+y = [10,93,87,26]
+y1 = [::-1]
+print(y1)
+
+
