@@ -1,0 +1,5 @@
+import numpy as np
+import pandas as pd
+y=["A",[1,2,4.5],"m",[45,78,2,6]]
+y1 = y.flatten()
+print(y1)
